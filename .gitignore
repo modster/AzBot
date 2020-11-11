@@ -1,3 +1,8 @@
+# My file
+.env
+AzBot.code-workspace
+todo.md
+
 # Logs
 logs
 *.log
